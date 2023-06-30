@@ -1,0 +1,21 @@
+4. Learn How to Code by Hand
+   It might seem old school, 
+but if you really want to succeed 
+in computer programming, especially 
+if you are seeking a coding career,
+ learning to code by hand is one of
+ the most important skills you can 
+learn. First of all, it will make you
+ a better coder because you’ll have 
+to be more intentional — you won’t 
+be able to run your code halfway through 
+to see if it works. This results in an 
+increased level of precision. But learning
+ to code by hand doesn’t just improve
+ your skills; it can also help you get 
+a job and jumpstart your coding career.
+ Employers looking to hire computer 
+programmers often require applicants 
+to take a coding test that involves 
+coding by hand. Therefore, it’s essential
+ that you acquire this skill.
